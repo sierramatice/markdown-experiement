@@ -1,29 +1,18 @@
 # markdown-experiement
 
-Outbreak Status
-Your Local Information
-For All States
-US National Level
-Global Level
+[#go to Outbreak Status](#outbreak-status)  
+
 Staying Healthy
-Social Distancing
-Masks
-Food & Disinfectants
-Health Conditions & Medications
-Pregnancy & Families
-Mental Wellbeing
-Financial Wellbeing
+
 If You’re Sick
-Making Decisions
-About Coronavirus
+
 Find Local Help
-National Community Aid Organizations
-Seattle Community Resources
+
 About Us + Contact
 
 
-Outbreak Status
-Your Local Information
+#Outbreak Status
+##Your Local Information
 [State drop down menu]
 Select your region from the drop down to see local resources
 Washington: 
